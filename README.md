@@ -18,7 +18,7 @@ The calculator can calculate:
 </> Markdown
 ## Example output
 The calculator running with sample aircraft performance inputs:
-![Aircraft Performance Calculator Output](aircraft-calculator-output)
+![Aircraft Performance Calculator Output](aircraft-calculator-output.png)
 
 ## Aerodynamic Equations
 
