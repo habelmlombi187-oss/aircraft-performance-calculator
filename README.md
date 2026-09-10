@@ -14,6 +14,11 @@ The calculator can calculate:
 - All performance parameters at once.
 - Handles invalid numerical input.
 - Has an interactive menu system.
+  
+</> Markdown
+## Example output
+The calculator running with sample aircraft performance inputs:
+![Aircraft Performance Calculator Output](aircraft-calculator-output)
 
 ## Aerodynamic Equations
 
